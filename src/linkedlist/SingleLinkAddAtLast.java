@@ -7,7 +7,7 @@ package linkedlist;
 
 /**
  *
- * @author Administrator
+ * @author RITX
  */
 public class SingleLinkAddAtLast{
     public Node head,tail;
